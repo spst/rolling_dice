@@ -1,2 +1,2 @@
-# rolling_dice
-WebApp to simulate rolling of dice
+# Rolling Dice
+WebApp to simulate rolling dice

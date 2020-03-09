@@ -1,0 +1,9 @@
+On GitHub Paes:
+https://github.com/spst/rolling_dice
+
+Javascript testing with Mocha
+https://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/
+https://medium.com/@chris.hague/intro-to-mocha-js-26f24920fc40
+https://gist.github.com/soheilhy/867f76feea7cab4f8a84
+https://stackoverflow.com/questions/10204021/how-do-i-test-normal-non-node-specific-javascript-functions-with-mocha/10209470#10209470
+
