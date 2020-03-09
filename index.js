@@ -1,10 +1,13 @@
 const template = Handlebars.compile(document.querySelector('#result').innerHTML);
 
 document.addEventListener('DOMContentLoaded', () => {
-    document.querySelector('#roll').onclick = ()  => {
+    document.getElementById("form_roll").onsubmit = () => {
+        return false;
+    };
 
+    document.querySelector('#roll').onclick = ()  => {
         // Generate random rolls.
-        const counter = parseInt(document.querySelector('#counter').value);
+        const counter = parseInt(document.querySelector('#select_dicecount').value);
         const rolls = [];
         let total = 0;
         for (let i = 0; i < counter; i++) {

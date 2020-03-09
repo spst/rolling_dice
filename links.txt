@@ -1,5 +1,5 @@
 On GitHub Paes:
-https://github.com/spst/rolling_dice
+https://spst.github.io/rolling_dice/
 
 Javascript testing with Mocha
 https://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/
