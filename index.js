@@ -48,5 +48,8 @@ document.addEventListener('DOMContentLoaded', () => {
         // Add roll results to DOM.
         clear_dice_in_dom();
         add_dice_to_dom(template_dice_6, rolls, 150);
+
+        // ToDo display 10, 12, 20 dice
+        // https://www.w3schools.com/howto/howto_css_image_text.asp
     };
 });
